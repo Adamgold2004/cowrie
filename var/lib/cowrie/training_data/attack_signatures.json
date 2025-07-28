@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Port Scanning",
+    "description": "Network traffic pattern for Port Scanning",
+    "severity": "medium"
+  }
+]

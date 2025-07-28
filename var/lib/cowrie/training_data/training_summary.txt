@@ -1,0 +1,26 @@
+COWRIE HONEYPOT TRAINING DATA SUMMARY
+==================================================
+Generated: 2025-07-26 14:19:33
+
+Attack Types Found: 2
+  • Port Scanning: 7 instances
+  • Normal Traffic: 4992 instances
+
+Target Ports: 651
+  • Port 53: 2460 connections
+  • Port 443: 859 connections
+  • Port 80: 632 connections
+  • Port 123: 95 connections
+  • Port 8080: 58 connections
+  • Port 389: 40 connections
+  • Port 137: 30 connections
+  • Port 22: 25 connections
+  • Port 21: 21 connections
+  • Port 88: 18 connections
+
+Training Data Files:
+  • network_attack_patterns.json - Complete pattern data
+  • attack_types.txt - List of attack types
+  • target_ports.txt - Targeted ports with frequencies
+  • attack_signatures.json - Attack signature definitions
+  • traffic_patterns.json - Sample network flow patterns

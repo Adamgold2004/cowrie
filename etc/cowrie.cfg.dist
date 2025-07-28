@@ -732,6 +732,67 @@ enabled = true
 logfile = ${honeypot:log_path}/cowrie.json
 epoch_timestamp = false
 
+# Web Dashboard output module
+# Provides a web-based dashboard for real-time log viewing and export
+#
+[output_webdashboard]
+enabled = false
+# Port for the web dashboard
+port = 8080
+# Host to bind to (0.0.0.0 for all interfaces)
+host = 0.0.0.0
+# Enable debug logging
+debug = false
+# Maximum number of events to keep in memory
+max_events = 1000
+
+# Enhanced JSON Export output module
+# Provides advanced JSON export capabilities with filtering and compression
+#
+[output_jsonexport]
+enabled = false
+# Regular JSON log file (optional)
+logfile = ${honeypot:log_path}/cowrie_export.json
+# Directory for export files
+export_dir = ${honeypot:log_path}/exports
+# Compress export files
+compress = true
+# Include metadata in exports
+include_metadata = true
+# Filter specific event types (comma-separated, empty for all)
+filter_events =
+# Auto-export every N hours (0 to disable)
+auto_export_hours = 0
+# Maximum events in buffer before auto-export
+max_buffer_size = 10000
+
+# SQL Export output module
+# Provides SQL database storage and export capabilities
+#
+[output_sqlexport]
+enabled = false
+# Database type: sqlite, mysql, postgresql
+database_type = sqlite
+# Export directory for SQL files
+export_dir = ${honeypot:log_path}/sql_exports
+
+# SQLite configuration (if database_type = sqlite)
+sqlite_file = ${honeypot:log_path}/cowrie_export.db
+
+# MySQL configuration (if database_type = mysql)
+#mysql_host = localhost
+#mysql_database = cowrie_export
+#mysql_username = cowrie
+#mysql_password = secret
+#mysql_port = 3306
+
+# PostgreSQL configuration (if database_type = postgresql)
+#postgres_host = localhost
+#postgres_database = cowrie_export
+#postgres_username = cowrie
+#postgres_password = secret
+#postgres_port = 5432
+
 # Supports logging to Elasticsearch
 # This is a simple early release
 #

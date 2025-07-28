@@ -1,0 +1,1502 @@
+[
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1266342,
+      "Total Fwd Packets": 41,
+      "Total Length of Fwd Packets": 2664,
+      "Fwd Packet Length Max": 456,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 64.97560976,
+      "Fwd Packet Length Std": 109.864573,
+      "Bwd Packet Length Max": 976,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 158.0454545
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1319353,
+      "Total Fwd Packets": 41,
+      "Total Length of Fwd Packets": 2664,
+      "Fwd Packet Length Max": 456,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 64.97560976,
+      "Fwd Packet Length Std": 109.864573,
+      "Bwd Packet Length Max": 976,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 158.0454545
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 160,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1303488,
+      "Total Fwd Packets": 41,
+      "Total Length of Fwd Packets": 2728,
+      "Fwd Packet Length Max": 456,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 66.53658537,
+      "Fwd Packet Length Std": 110.1299454,
+      "Bwd Packet Length Max": 976,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 157.952381
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 77,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 244,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1307239,
+      "Total Fwd Packets": 41,
+      "Total Length of Fwd Packets": 2728,
+      "Fwd Packet Length Max": 456,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 66.53658537,
+      "Fwd Packet Length Std": 110.1299454,
+      "Bwd Packet Length Max": 976,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 165.85
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 82,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 171,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 210,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 75,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 77,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 2,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 2071,
+      "Fwd Packet Length Max": 2065,
+      "Fwd Packet Length Min": 6,
+      "Fwd Packet Length Mean": 1035.5,
+      "Fwd Packet Length Std": 1455.932862,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 27701,
+      "Total Fwd Packets": 15,
+      "Total Length of Fwd Packets": 18467,
+      "Fwd Packet Length Max": 2920,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 1231.133333,
+      "Fwd Packet Length Std": 1054.492489,
+      "Bwd Packet Length Max": 6,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 4
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 152547,
+      "Total Fwd Packets": 19,
+      "Total Length of Fwd Packets": 206,
+      "Fwd Packet Length Max": 43,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 10.84210526,
+      "Fwd Packet Length Std": 11.90360897,
+      "Bwd Packet Length Max": 51,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 19.2
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 4,
+      "Total Fwd Packets": 3,
+      "Total Length of Fwd Packets": 18,
+      "Fwd Packet Length Max": 6,
+      "Fwd Packet Length Min": 6,
+      "Fwd Packet Length Mean": 6,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 45,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 6,
+      "Fwd Packet Length Max": 6,
+      "Fwd Packet Length Min": 6,
+      "Fwd Packet Length Mean": 6,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 6,
+      "Bwd Packet Length Min": 6,
+      "Bwd Packet Length Mean": 6
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 16506,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 48,
+      "Fwd Packet Length Max": 48,
+      "Fwd Packet Length Min": 48,
+      "Fwd Packet Length Mean": 48,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 94,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 6,
+      "Fwd Packet Length Max": 6,
+      "Fwd Packet Length Min": 6,
+      "Fwd Packet Length Mean": 6,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 6,
+      "Bwd Packet Length Min": 6,
+      "Bwd Packet Length Mean": 6
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 58,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 6,
+      "Fwd Packet Length Max": 6,
+      "Fwd Packet Length Min": 6,
+      "Fwd Packet Length Mean": 6,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 6,
+      "Bwd Packet Length Min": 6,
+      "Bwd Packet Length Mean": 6
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 4687117,
+      "Total Fwd Packets": 10,
+      "Total Length of Fwd Packets": 703,
+      "Fwd Packet Length Max": 267,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 70.3,
+      "Fwd Packet Length Std": 100.477803,
+      "Bwd Packet Length Max": 2896,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 395
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 86068,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 48,
+      "Fwd Packet Length Max": 48,
+      "Fwd Packet Length Min": 48,
+      "Fwd Packet Length Mean": 48,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 94972,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 30465,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 45,
+      "Fwd Packet Length Max": 45,
+      "Fwd Packet Length Min": 45,
+      "Fwd Packet Length Mean": 45,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 61,
+      "Bwd Packet Length Min": 61,
+      "Bwd Packet Length Mean": 61
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 30911,
+      "Total Fwd Packets": 4,
+      "Total Length of Fwd Packets": 136,
+      "Fwd Packet Length Max": 34,
+      "Fwd Packet Length Min": 34,
+      "Fwd Packet Length Mean": 34,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 50,
+      "Bwd Packet Length Min": 50,
+      "Bwd Packet Length Mean": 50
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1066855,
+      "Total Fwd Packets": 9,
+      "Total Length of Fwd Packets": 703,
+      "Fwd Packet Length Max": 267,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 78.11111111,
+      "Fwd Packet Length Std": 103.3022803,
+      "Bwd Packet Length Max": 1448,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 359.0909091
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 86016,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 48,
+      "Fwd Packet Length Max": 48,
+      "Fwd Packet Length Min": 48,
+      "Fwd Packet Length Mean": 48,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 94848,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 118012435,
+      "Total Fwd Packets": 141,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 16250,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 48,
+      "Fwd Packet Length Max": 48,
+      "Fwd Packet Length Min": 48,
+      "Fwd Packet Length Mean": 48,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 22410,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 48,
+      "Fwd Packet Length Max": 48,
+      "Fwd Packet Length Min": 48,
+      "Fwd Packet Length Mean": 48,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 55068559,
+      "Total Fwd Packets": 24,
+      "Total Length of Fwd Packets": 3558,
+      "Fwd Packet Length Max": 1304,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 148.25,
+      "Fwd Packet Length Std": 369.4866298,
+      "Bwd Packet Length Max": 2910,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 574.7692308
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 55091905,
+      "Total Fwd Packets": 24,
+      "Total Length of Fwd Packets": 3204,
+      "Fwd Packet Length Max": 1305,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 133.5,
+      "Fwd Packet Length Std": 364.3575645,
+      "Bwd Packet Length Max": 2910,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 540.7692308
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1002497,
+      "Total Fwd Packets": 26,
+      "Total Length of Fwd Packets": 1274,
+      "Fwd Packet Length Max": 49,
+      "Fwd Packet Length Min": 49,
+      "Fwd Packet Length Mean": 49,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 0,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 0
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 179,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 75,
+      "Bwd Packet Length Min": 75,
+      "Bwd Packet Length Mean": 75
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 188,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 116,
+      "Fwd Packet Length Max": 58,
+      "Fwd Packet Length Min": 58,
+      "Fwd Packet Length Mean": 58,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 142,
+      "Bwd Packet Length Min": 142,
+      "Bwd Packet Length Mean": 142
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 151,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 118,
+      "Fwd Packet Length Max": 59,
+      "Fwd Packet Length Min": 59,
+      "Fwd Packet Length Mean": 59,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 143,
+      "Bwd Packet Length Min": 143,
+      "Bwd Packet Length Mean": 143
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 189,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 116,
+      "Fwd Packet Length Max": 58,
+      "Fwd Packet Length Min": 58,
+      "Fwd Packet Length Mean": 58,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 142,
+      "Bwd Packet Length Min": 142,
+      "Bwd Packet Length Mean": 142
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 149,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 118,
+      "Fwd Packet Length Max": 59,
+      "Fwd Packet Length Min": 59,
+      "Fwd Packet Length Mean": 59,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 143,
+      "Bwd Packet Length Min": 143,
+      "Bwd Packet Length Mean": 143
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 153,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 105,
+      "Bwd Packet Length Min": 105,
+      "Bwd Packet Length Mean": 105
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 159,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 90,
+      "Fwd Packet Length Max": 45,
+      "Fwd Packet Length Min": 45,
+      "Fwd Packet Length Mean": 45,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 106,
+      "Bwd Packet Length Min": 106,
+      "Bwd Packet Length Mean": 106
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 158,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 118,
+      "Fwd Packet Length Max": 59,
+      "Fwd Packet Length Min": 59,
+      "Fwd Packet Length Mean": 59,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 143,
+      "Bwd Packet Length Min": 143,
+      "Bwd Packet Length Mean": 143
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 145,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 90,
+      "Fwd Packet Length Max": 45,
+      "Fwd Packet Length Min": 45,
+      "Fwd Packet Length Mean": 45,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 106,
+      "Bwd Packet Length Min": 106,
+      "Bwd Packet Length Mean": 106
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 147,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 105,
+      "Bwd Packet Length Min": 105,
+      "Bwd Packet Length Mean": 105
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 189,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 86,
+      "Fwd Packet Length Max": 43,
+      "Fwd Packet Length Min": 43,
+      "Fwd Packet Length Mean": 43,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 71,
+      "Bwd Packet Length Min": 71,
+      "Bwd Packet Length Mean": 71
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 112794953,
+      "Total Fwd Packets": 32,
+      "Total Length of Fwd Packets": 6448,
+      "Fwd Packet Length Max": 403,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 201.5,
+      "Fwd Packet Length Std": 204.7242047,
+      "Bwd Packet Length Max": 72,
+      "Bwd Packet Length Min": 72,
+      "Bwd Packet Length Mean": 72
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 213,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 110,
+      "Fwd Packet Length Max": 55,
+      "Fwd Packet Length Min": 55,
+      "Fwd Packet Length Mean": 55,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 116,
+      "Bwd Packet Length Min": 116,
+      "Bwd Packet Length Mean": 116
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 79,
+      "Total Fwd Packets": 3,
+      "Total Length of Fwd Packets": 4,
+      "Fwd Packet Length Max": 4,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 1.333333333,
+      "Fwd Packet Length Std": 2.309401077,
+      "Bwd Packet Length Max": 4,
+      "Bwd Packet Length Min": 4,
+      "Bwd Packet Length Mean": 4
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 14867772,
+      "Total Fwd Packets": 11,
+      "Total Length of Fwd Packets": 2408,
+      "Fwd Packet Length Max": 968,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 218.9090909,
+      "Fwd Packet Length Std": 380.1022111,
+      "Bwd Packet Length Max": 952,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 360
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 14868754,
+      "Total Fwd Packets": 15,
+      "Total Length of Fwd Packets": 1034,
+      "Fwd Packet Length Max": 168,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 68.93333333,
+      "Fwd Packet Length Std": 81.53480122,
+      "Bwd Packet Length Max": 268,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 137
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 34758892,
+      "Total Fwd Packets": 17,
+      "Total Length of Fwd Packets": 5300,
+      "Fwd Packet Length Max": 1755,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 311.7647059,
+      "Fwd Packet Length Std": 554.2186538,
+      "Bwd Packet Length Max": 348,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 155.2857143
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 167,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 414,
+      "Fwd Packet Length Max": 207,
+      "Fwd Packet Length Min": 207,
+      "Fwd Packet Length Mean": 207,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 163,
+      "Bwd Packet Length Min": 163,
+      "Bwd Packet Length Mean": 163
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 160,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 412,
+      "Fwd Packet Length Max": 206,
+      "Fwd Packet Length Min": 206,
+      "Fwd Packet Length Mean": 206,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 163,
+      "Bwd Packet Length Min": 163,
+      "Bwd Packet Length Mean": 163
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 414955,
+      "Total Fwd Packets": 20,
+      "Total Length of Fwd Packets": 5700,
+      "Fwd Packet Length Max": 1633,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 285,
+      "Fwd Packet Length Std": 498.9652451,
+      "Bwd Packet Length Max": 2634,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 455.6
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 304154,
+      "Total Fwd Packets": 14,
+      "Total Length of Fwd Packets": 4100,
+      "Fwd Packet Length Max": 1646,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 292.8571429,
+      "Fwd Packet Length Std": 578.0317874,
+      "Bwd Packet Length Max": 210,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 87
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1089,
+      "Total Fwd Packets": 9,
+      "Total Length of Fwd Packets": 3150,
+      "Fwd Packet Length Max": 1575,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 350,
+      "Fwd Packet Length Std": 694.5097192,
+      "Bwd Packet Length Max": 1576,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 525.3333333
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 1090,
+      "Total Fwd Packets": 9,
+      "Total Length of Fwd Packets": 3150,
+      "Fwd Packet Length Max": 1575,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 350,
+      "Fwd Packet Length Std": 694.5097192,
+      "Bwd Packet Length Max": 1576,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 525.3333333
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 30997,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 52,
+      "Fwd Packet Length Max": 52,
+      "Fwd Packet Length Min": 52,
+      "Fwd Packet Length Mean": 52,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 68,
+      "Bwd Packet Length Min": 68,
+      "Bwd Packet Length Mean": 68
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 67399,
+      "Total Fwd Packets": 18,
+      "Total Length of Fwd Packets": 3882,
+      "Fwd Packet Length Max": 1313,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 215.6666667,
+      "Fwd Packet Length Std": 413.4366727,
+      "Bwd Packet Length Max": 3069,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 684.3076923
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 85539,
+      "Total Fwd Packets": 36,
+      "Total Length of Fwd Packets": 6724,
+      "Fwd Packet Length Max": 1313,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 186.7777778,
+      "Fwd Packet Length Std": 288.4650126,
+      "Bwd Packet Length Max": 3069,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 368.5806452
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 26443,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 48,
+      "Fwd Packet Length Max": 48,
+      "Fwd Packet Length Min": 48,
+      "Fwd Packet Length Mean": 48,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 60668,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 71,
+      "Fwd Packet Length Max": 71,
+      "Fwd Packet Length Min": 71,
+      "Fwd Packet Length Mean": 71,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 120,
+      "Bwd Packet Length Min": 120,
+      "Bwd Packet Length Mean": 120
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 31468,
+      "Total Fwd Packets": 4,
+      "Total Length of Fwd Packets": 184,
+      "Fwd Packet Length Max": 46,
+      "Fwd Packet Length Min": 46,
+      "Fwd Packet Length Mean": 46,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 150,
+      "Bwd Packet Length Min": 150,
+      "Bwd Packet Length Mean": 150
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 197,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 102,
+      "Fwd Packet Length Max": 51,
+      "Fwd Packet Length Min": 51,
+      "Fwd Packet Length Mean": 51,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 112,
+      "Bwd Packet Length Min": 112,
+      "Bwd Packet Length Mean": 112
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 190,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 163,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 79,
+      "Bwd Packet Length Min": 79,
+      "Bwd Packet Length Mean": 79
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 61033,
+      "Total Fwd Packets": 4,
+      "Total Length of Fwd Packets": 208,
+      "Fwd Packet Length Max": 52,
+      "Fwd Packet Length Min": 52,
+      "Fwd Packet Length Mean": 52,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 157,
+      "Bwd Packet Length Min": 157,
+      "Bwd Packet Length Mean": 157
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 198,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 192,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 102,
+      "Fwd Packet Length Max": 51,
+      "Fwd Packet Length Min": 51,
+      "Fwd Packet Length Mean": 51,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 112,
+      "Bwd Packet Length Min": 112,
+      "Bwd Packet Length Mean": 112
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 159,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 79,
+      "Bwd Packet Length Min": 79,
+      "Bwd Packet Length Mean": 79
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 739,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 500,
+      "Fwd Packet Length Max": 250,
+      "Fwd Packet Length Min": 250,
+      "Fwd Packet Length Mean": 250,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 1430,
+      "Bwd Packet Length Min": 1430,
+      "Bwd Packet Length Mean": 1430
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 697,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 500,
+      "Fwd Packet Length Max": 250,
+      "Fwd Packet Length Min": 250,
+      "Fwd Packet Length Mean": 250,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 1430,
+      "Bwd Packet Length Min": 1430,
+      "Bwd Packet Length Mean": 1430
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 210,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 212,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 102,
+      "Fwd Packet Length Max": 51,
+      "Fwd Packet Length Min": 51,
+      "Fwd Packet Length Mean": 51,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 112,
+      "Bwd Packet Length Min": 112,
+      "Bwd Packet Length Mean": 112
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 403,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 352,
+      "Fwd Packet Length Max": 176,
+      "Fwd Packet Length Min": 176,
+      "Fwd Packet Length Mean": 176,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 179,
+      "Bwd Packet Length Min": 179,
+      "Bwd Packet Length Mean": 179
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 208,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 265,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 79,
+      "Bwd Packet Length Min": 79,
+      "Bwd Packet Length Mean": 79
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 213,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 190,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 102,
+      "Fwd Packet Length Max": 51,
+      "Fwd Packet Length Min": 51,
+      "Fwd Packet Length Mean": 51,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 112,
+      "Bwd Packet Length Min": 112,
+      "Bwd Packet Length Mean": 112
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 210,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 161,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 79,
+      "Bwd Packet Length Min": 79,
+      "Bwd Packet Length Mean": 79
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 209,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 199,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 102,
+      "Fwd Packet Length Max": 51,
+      "Fwd Packet Length Min": 51,
+      "Fwd Packet Length Mean": 51,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 112,
+      "Bwd Packet Length Min": 112,
+      "Bwd Packet Length Mean": 112
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 202,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 201,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 211,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 190,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 102,
+      "Fwd Packet Length Max": 51,
+      "Fwd Packet Length Min": 51,
+      "Fwd Packet Length Mean": 51,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 112,
+      "Bwd Packet Length Min": 112,
+      "Bwd Packet Length Mean": 112
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 203,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 93,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 6,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 3
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 77,
+      "Total Fwd Packets": 1,
+      "Total Length of Fwd Packets": 0,
+      "Fwd Packet Length Max": 0,
+      "Fwd Packet Length Min": 0,
+      "Fwd Packet Length Mean": 0,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 6,
+      "Bwd Packet Length Min": 0,
+      "Bwd Packet Length Mean": 3
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 200,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 165,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 79,
+      "Bwd Packet Length Min": 79,
+      "Bwd Packet Length Mean": 79
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 209,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 164,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 79,
+      "Bwd Packet Length Min": 79,
+      "Bwd Packet Length Mean": 79
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 440,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 352,
+      "Fwd Packet Length Max": 176,
+      "Fwd Packet Length Min": 176,
+      "Fwd Packet Length Mean": 176,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 179,
+      "Bwd Packet Length Min": 179,
+      "Bwd Packet Length Mean": 179
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 192,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 207,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 209,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 249,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 88,
+      "Fwd Packet Length Max": 44,
+      "Fwd Packet Length Min": 44,
+      "Fwd Packet Length Mean": 44,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 94,
+      "Bwd Packet Length Min": 94,
+      "Bwd Packet Length Mean": 94
+    }
+  },
+  {
+    "attack_type": "Normal Traffic",
+    "features": {
+      "Flow Duration": 212,
+      "Total Fwd Packets": 2,
+      "Total Length of Fwd Packets": 64,
+      "Fwd Packet Length Max": 32,
+      "Fwd Packet Length Min": 32,
+      "Fwd Packet Length Mean": 32,
+      "Fwd Packet Length Std": 0,
+      "Bwd Packet Length Max": 48,
+      "Bwd Packet Length Min": 48,
+      "Bwd Packet Length Mean": 48
+    }
+  }
+]
